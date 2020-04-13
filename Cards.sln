@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TongIts", "Cards\TongIts.csproj", "{57464F76-B070-4EEA-A452-12FBF42CC460}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BOLayer", "BOLayer\BOLayer.csproj", "{CB8360D1-9EB2-48A6-8B80-269FB00E3D86}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{72946D78-CFA5-427E-B810-C293622BA019}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57464F76-B070-4EEA-A452-12FBF42CC460}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57464F76-B070-4EEA-A452-12FBF42CC460}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57464F76-B070-4EEA-A452-12FBF42CC460}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57464F76-B070-4EEA-A452-12FBF42CC460}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB8360D1-9EB2-48A6-8B80-269FB00E3D86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB8360D1-9EB2-48A6-8B80-269FB00E3D86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB8360D1-9EB2-48A6-8B80-269FB00E3D86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB8360D1-9EB2-48A6-8B80-269FB00E3D86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72946D78-CFA5-427E-B810-C293622BA019}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72946D78-CFA5-427E-B810-C293622BA019}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72946D78-CFA5-427E-B810-C293622BA019}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72946D78-CFA5-427E-B810-C293622BA019}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {19955AF3-DC9F-4894-AB04-21A6DA9A2D7E}
+	EndGlobalSection
+EndGlobal
